@@ -1,0 +1,7 @@
+1. Your repo url in Github
+https://github.com/Chulowee/git-basic
+
+2. Your answer for What is the difference between add, commit, and push?
+Add is a command (git add <filename>) where files that have been updated or has change from the workplace are moved to the staging area, 
+commit is the next step after staging, where files are saved to your local repository but not yet in the remote, commit messages can be added for easier understanding of the purpose of the change and
+push is the last step/ or command where commited changes from the local repositories are saved to the remote branch.
